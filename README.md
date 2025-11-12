@@ -21,7 +21,7 @@ Focused on writing clean, efficient code and mastering the fundamentals of full-
 
 ### 🤝 Let’s Connect
 - 📫 [Email](mailto:rafaelevora@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/rafaelevora)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rafael-evora-martorell-33934638/))  
 - 🌐 [GitHub Projects](https://github.com/rafaelevora)
 
 ---
