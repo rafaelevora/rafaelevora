@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋 I'm Rafael Evora
 
-<!--
-**rafaelevora/rafaelevora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Front-End Developer in progress**  
+Focused on writing clean, efficient code and mastering the fundamentals of full-stack development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I’m Working On
+- Building web apps with **JavaScript, React, TypeScript, and MongoDB**  
+- Improving my problem-solving skills through small, focused projects  
+- Strengthening my understanding of **front-end architecture and APIs**
+
+---
+
+### 🌱 Currently Learning
+- **TypeScript**, **Tailwind CSS**, and advanced **React** patterns  
+- **Node.js** fundamentals for full-stack development  
+- Core **Computer Science** concepts to build a solid foundation
+
+---
+
+### 🤝 Let’s Connect
+- 📫 [Email](mailto:rafaelevora@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rafaelevora)  
+- 🌐 [GitHub Projects](https://github.com/rafaelevora)
+
+---
+
+### ⚡ Mindset
+Always learning. Always building. Always improving.
